@@ -14,7 +14,7 @@ The following graph right-hand side displays the clustered regions, with each ar
 
 ### How to make money in LA with Airbnb?
 
-1. Our project offers price range recommendations for new Airbnb listings by combining structural modeling and marching learning. 
+1. Our project offers price range recommendations for new Airbnb listings by combining structural modeling and machine learning. 
 2. We identify areas with the best rate of return. 
 3. We suggest possible amenities to make your listings more popular. 
 4. We emphasize the importance of becoming a superhost and responding fast to messages from customers.
