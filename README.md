@@ -26,6 +26,6 @@ The following graph right-hand side displays the clustered regions, with each ar
 3. We suggest possible amenities to make your listings more popular. 
 4. We emphasize the importance of becoming a superhost and responding fast to messages from customers.
 
-## Here are the details on Structural Modeling https://github.com/nzy129/Erdos_Spring_2023-1/blob/main/Airbnb_Optimal_Pricing_Structural_Model/Airbnb_Optimal_Pricing_Structural_Model_PDF.pdf
-## Here are the summary slide
+#### Here are the details on the [structural modeling](https://github.com/nzy129/Erdos_Spring_2023-1/blob/main/Airbnb_Optimal_Pricing_Structural_Model/Airbnb_Optimal_Pricing_Structural_Model_PDF.pdf)
+#### Here is the [summary slide](https://docs.google.com/presentation/d/1yxgyUq4nLSnvIY-hBwJOoF6DOMCZySbDluFNoZTBGEU/edit#slide=id.g2260875352d_1_0)
 
