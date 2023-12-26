@@ -18,3 +18,6 @@ The following graph right-hand side displays the clustered regions, with each ar
 2. We identify areas with the best rate of return. 
 3. We suggest possible amenities to make your listings more popular. 
 4. We emphasize the importance of becoming a superhost and responding fast to messages from customers.
+
+
+https://docs.google.com/presentation/d/1yxgyUq4nLSnvIY-hBwJOoF6DOMCZySbDluFNoZTBGEU/edit#slide=id.g24d8fffbdac_0_2
