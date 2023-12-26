@@ -12,6 +12,14 @@ The following graph right-hand side displays the clustered regions, with each ar
 
 <img src="https://github.com/PSha98/Erdos_Spring_2023/blob/main/Plot/150clusters_rate_of_return.png" alt="Image" width="100%">
 
+
+### Attractive amenities:
+Amenities that attract most people:  
+1. Free parking!
+2. Freezer
+3. Washer and dryer
+
+
 ### How to make money in LA with Airbnb?
 
 1. Our project offers price range recommendations for new Airbnb listings by combining structural modeling and marching learning. 
