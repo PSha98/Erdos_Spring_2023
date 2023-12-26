@@ -13,8 +13,7 @@ The following graph right-hand side displays the clustered regions, with each ar
 <img src="https://github.com/PSha98/Erdos_Spring_2023/blob/main/Plot/150clusters_rate_of_return.png" alt="Image" width="100%">
 
 
-### Attractive amenities:
-Amenities that attract most people:  
+### Amenities that attract most people:  
 1. Free parking!
 2. Freezer
 3. Washer and dryer
@@ -28,4 +27,4 @@ Amenities that attract most people:
 4. We emphasize the importance of becoming a superhost and responding fast to messages from customers.
 
 
-https://docs.google.com/presentation/d/1yxgyUq4nLSnvIY-hBwJOoF6DOMCZySbDluFNoZTBGEU/edit#slide=id.g24d8fffbdac_0_2
+
