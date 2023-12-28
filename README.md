@@ -18,7 +18,8 @@ The following graph right-hand side displays the clustered regions, with each ar
 2. Freezer
 3. Washer and dryer
 
-<img src="https://github.com/nzy129/Erdos_Spring_2023-1/blob/main/WordCloud.svg" alt="Word Cloud" width "80">
+<img src="https://github.com/nzy129/Erdos_Spring_2023-1/blob/main/WordCloud.svg" alt="Word Cloud" width "80%">
+
 ### How to make money in LA with Airbnb?
 
 1. Our project offers price range recommendations for new Airbnb listings by combining structural modeling and marching learning. 
