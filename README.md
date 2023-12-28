@@ -17,9 +17,9 @@ The following graph right-hand side displays the clustered regions, with each ar
 1. Free parking!
 2. Freezer
 3. Washer and dryer
+   
+<img src="https://github.com/nzy129/Erdos_Spring_2023-1/blob/main/WordCloud.svg" alt="Image" width="60%">
 
-<img src="https://github.com/PSha98/Erdos_Spring_2023/blob/main/Plot/image_representing_all_data.PNG" alt="Image" width="60%">
-<img src="https://github.com/nzy129/Erdos_Spring_2023-1/blob/main/WordCloud.svg" alt="Word Cloud" width "80%">
 
 ### How to make money in LA with Airbnb?
 
